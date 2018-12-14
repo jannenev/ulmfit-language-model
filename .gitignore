@@ -1,0 +1,18 @@
+#
+data/
+
+# Large output files, around 130 MB each
+models/
+
+#working files, created by code
+work/ 
+
+#backup
+back/
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
+__pycache__/
+
+tmp/
